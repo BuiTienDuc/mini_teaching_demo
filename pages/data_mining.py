@@ -196,7 +196,7 @@ with st.sidebar:
 # Page Header
 # =========================
 st.title("📊 Data Mining Demo")
-st.write("This version presents a more professional machine learning workflow for the laptop e-commerce dataset.")
+st.write("This version presents a more Data Mining workflow for the laptop e-commerce dataset.")
 
 # =========================
 # Step 1: Load data
@@ -528,12 +528,12 @@ This data mining demo shows a complete Data Mining workflow:
 - evaluating performance
 - visualizing results and feature importance
 
-This makes the demo stronger for teaching interviews because it connects theory, machine learning workflow, and business interpretation.
+This makes the demo stronger for teaching interviews because it connects theory, Data Mining workflow, and business interpretation.
 """)
 
 st.markdown('</div>', unsafe_allow_html=True)
 
 st.markdown(
-    '<div class="footer-text">🎓 Teaching Demo – Professional Data Mining Application | Bui Tien Duc</div>',
+    '<div class="footer-text">🎓 Teaching Demo – Data Mining and Its Application | Bui Tien Duc</div>',
     unsafe_allow_html=True
 )
